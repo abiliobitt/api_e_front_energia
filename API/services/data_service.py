@@ -1,9 +1,6 @@
 import inject
 import json
 import os
-from multiprocessing import Process
-import asyncio
-
 
 from infra.http_client.httpx.http_client import HttpClient
 from settings.data.dataSettings import DataSettings
