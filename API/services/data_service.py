@@ -1,6 +1,7 @@
 import inject
 import json
 import os
+import pandas as pd
 
 from infra.http_client.httpx.http_client import HttpClient
 from settings.data.dataSettings import DataSettings
@@ -11,7 +12,6 @@ def write_json(new_data, filename='data.json'):
             file_data = json.load(file)
             file_data['records'].append(new_data)
             file.seek(0)
-            # file.truncate()  # limpar o conteúdo do arquivo
             json.dump(file_data, file, indent=4)
     else:
         with open(filename, 'w') as file:
@@ -38,6 +38,11 @@ class DataService:
             for i in response.payload['result']['records']:
                 write_json(i)
         f = open("DataServiceIsRunning.txt", "a")
+
+        json_string = open('data.json')
+        read = pd.read_json(json_string)
+        read.to_csv('data.csv')
+
         f.truncate(0)
         f.write("false")
         f.close()
