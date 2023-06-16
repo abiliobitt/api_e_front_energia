@@ -9,9 +9,9 @@ app = FastAPI()
 
 
 @app.get("/")
-async def read_root():
+def read_root():
         data_service: DataService = inject.instance(DataService)
-        response = await data_service.get_data()
+        response = data_service.get_data()
         return response
 
 def configure(binder):
