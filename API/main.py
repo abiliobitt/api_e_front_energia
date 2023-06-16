@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import BackgroundTasks, FastAPI
 import inject
 
 from services.data_service import DataService
@@ -7,12 +7,17 @@ from settings import adapter_binders
 
 app = FastAPI()
 
-
 @app.get("/")
-def read_root():
+async def read_root(background_tasks: BackgroundTasks):
+    with open('DataServiceIsRunning.txt', 'r') as file:
+        data = file.read().rstrip()
+    if data == 'true':
+        return {"error": "Está rodando"}
+    else:
         data_service: DataService = inject.instance(DataService)
-        response = data_service.get_data()
-        return response
+        background_tasks.add_task(data_service.get_data)
+        return {"message": "Notification sent in the background"}
+
 
 def configure(binder):
     for config in adapter_binders:

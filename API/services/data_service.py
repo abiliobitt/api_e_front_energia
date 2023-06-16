@@ -24,23 +24,23 @@ def write_json(new_data, filename='data.json'):
 
 class DataService:
     @staticmethod
-    async def get_data_process():
+    async def get_data():
         http_adapter: HttpClient = inject.instance(HttpClient)
         offset = 0
-        print('--------------------------------entrou no metodo---------------------')
-        # while offset < 4:
-        #     response = await http_adapter.get(
-        #         f"{DataSettings.URL}&limit=2&offset={0 if offset == 0 else offset}",
-        #         headers={
-        #         }
-        #     )
-        #     offset = offset + 2
-        #     for i in response.payload["result"]["records"]:
-        #         write_json(i)
-
-    @staticmethod
-    def get_data():
-        p = Process(target=asyncio.run, args=(DataService.get_data_process(),))
-        p.start()
-        p.join()
-        return {"response": "done"}
+        f = open("DataServiceIsRunning.txt", "a")
+        f.truncate(0)
+        f.write("true")
+        f.close()
+        while offset < 4000:
+            response = await http_adapter.get(
+                f"{DataSettings.URL}&limit=2&offset={0 if offset == 0 else offset}",
+                headers={
+                }
+            )
+            offset = offset + 2000
+            for i in response.payload['result']['records']:
+                write_json(i)
+        f = open("DataServiceIsRunning.txt", "a")
+        f.truncate(0)
+        f.write("false")
+        f.close()
