@@ -76,14 +76,14 @@ class DataService:
                 ufs_df['MdaPotenciaInstaladaKW'] = ufs_df['MdaPotenciaInstaladaKW'].str.replace(',','.').astype('float')
 
                 # Potência instalada por estado e classe de empreendimento
-                count_potency_by_state_and_class = ufs_df.groupby(['SigUF','DscClasseConsumo', 'AnmPeriodoReferencia'], as_index=False)['MdaPotenciaInstaladaKW'].count()
+                count_potency_by_state_and_class = ufs_df.groupby(['SigUF','DscClasseConsumo', 'AnmPeriodoReferencia'])['MdaPotenciaInstaladaKW'].count()
                 count_potency_by_state_and_class.to_csv('potency_by_uf_and_class.csv')
                 count_potency_by_state_and_class.to_json('potency_by_uf_and_class.json')
 
                 # Potência instalada por estado
-                count_potency_by_state_and_time_range = ufs_df.groupby(['SigUF', 'AnmPeriodoReferencia'], as_index=False)['MdaPotenciaInstaladaKW'].count()
+                count_potency_by_state_and_time_range = ufs_df.groupby(['SigUF', 'AnmPeriodoReferencia'])['MdaPotenciaInstaladaKW'].count()
                 count_potency_by_state_and_time_range.to_csv('potency_by_state_and_time_range.csv')
-                count_potency_by_state_and_time_range.to_json('potency_by_state_and_time_range.json')
+                count_potency_by_state_and_time_range.to_json('potency_by_state_and_time_range.json', orient='records')
 
         except NameError:
             print(NameError)
