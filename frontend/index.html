@@ -1,17 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/style.css">
-    <title>Dados de Energia </title>
-</head>
-<body>
-    <h1>Base front</h1>
-</body>
-<script
-  src="https://code.jquery.com/jquery-3.7.0.min.js"
-  integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
-  crossorigin="anonymous"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <title>Dados de Energia</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="left-menu">
+        <div class="logo">
+          <i class="fa fa-bar-chart-o"></i>
+          <div>Dados de <span>Energia</span></div>
+        </div>
+        <div class="accordion">
+          <div class="section">
+            <input
+              id="section-1"
+              type="radio"
+              name="accordion-1"
+              checked="checked"
+            />
+            <label for="section-1"><span>Menu 1</span></label>
+            <div class="content scroll">
+              <ul>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="section">
+            <input
+              id="section-2"
+              type="radio"
+              name="accordion-1"
+              value="toggle"
+            />
+            <label for="section-2"> <span>Menu 2</span></label>
+            <div class="content scroll">
+              <ul>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="section">
+            <input
+              id="section-3"
+              type="radio"
+              name="accordion-1"
+              value="toggle"
+            />
+            <label for="section-3"> <span>Menu 3 com scroll</span></label>
+            <div class="content scroll">
+              <ul>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+                <li><i class="fa fa-bar-chart-o"></i><span>Item</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="section">
+            <input
+              id="section-4"
+              type="radio"
+              name="accordion-1"
+              value="toggle"
+            />
+            <label for="section-4"> <span>Menu 4</span></label>
+            <div class="content"></div>
+          </div>
+        </div>
+      </div>
+      <div id="right-panel" class="right-panel">
+        <header id="header" class="header"></header>
+      </div>
+    </div>
+  </body>
+  <script
+    src="https://code.jquery.com/jquery-3.7.0.min.js"
+    integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+    crossorigin="anonymous"
+  ></script>
   <script src="scripts/index.js"></script>
 </html>
