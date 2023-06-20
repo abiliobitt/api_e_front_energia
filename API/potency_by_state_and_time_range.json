@@ -1,1 +1,132 @@
-[980,925,899,962,975,4036,4030,4030,3997,3925,1440,1389,1435,1465,1415,521,541,529,518,527,159,172,181,165,138,1]
+[
+    {
+        "SigUF": "AC",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "944"
+    },
+    {
+        "SigUF": "AC",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "960"
+    },
+    {
+        "SigUF": "AC",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "933"
+    },
+    {
+        "SigUF": "AC",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "951"
+    },
+    {
+        "SigUF": "AC",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "953"
+    },
+    {
+        "SigUF": "AL",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "4148"
+    },
+    {
+        "SigUF": "AL",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "4047"
+    },
+    {
+        "SigUF": "AL",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "3919"
+    },
+    {
+        "SigUF": "AL",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "3947"
+    },
+    {
+        "SigUF": "AL",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "3957"
+    },
+    {
+        "SigUF": "AM",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1435"
+    },
+    {
+        "SigUF": "AM",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "1442"
+    },
+    {
+        "SigUF": "AM",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "1410"
+    },
+    {
+        "SigUF": "AM",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "1451"
+    },
+    {
+        "SigUF": "AM",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1406"
+    },
+    {
+        "SigUF": "AP",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "510"
+    },
+    {
+        "SigUF": "AP",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "569"
+    },
+    {
+        "SigUF": "AP",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "534"
+    },
+    {
+        "SigUF": "AP",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "506"
+    },
+    {
+        "SigUF": "AP",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "517"
+    },
+    {
+        "SigUF": "BA",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "159"
+    },
+    {
+        "SigUF": "BA",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "182"
+    },
+    {
+        "SigUF": "BA",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "165"
+    },
+    {
+        "SigUF": "BA",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "155"
+    },
+    {
+        "SigUF": "BA",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "154"
+    },
+    {
+        "SigUF": "SP",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    }
+]

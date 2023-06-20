@@ -1,1 +1,752 @@
-{"('AC', 'Comercial', '06\/2023')":121,"('AC', 'Comercial', '07\/2023')":134,"('AC', 'Comercial', '08\/2023')":125,"('AC', 'Comercial', '09\/2023')":123,"('AC', 'Comercial', '10\/2023')":127,"('AC', 'Industrial', '06\/2023')":2,"('AC', 'Industrial', '07\/2023')":3,"('AC', 'Industrial', '08\/2023')":3,"('AC', 'Industrial', '09\/2023')":4,"('AC', 'Industrial', '10\/2023')":7,"('AC', 'Poder P\u00fablico', '06\/2023')":1,"('AC', 'Poder P\u00fablico', '07\/2023')":3,"('AC', 'Poder P\u00fablico', '08\/2023')":2,"('AC', 'Poder P\u00fablico', '09\/2023')":2,"('AC', 'Poder P\u00fablico', '10\/2023')":2,"('AC', 'Residencial', '06\/2023')":800,"('AC', 'Residencial', '07\/2023')":736,"('AC', 'Residencial', '08\/2023')":731,"('AC', 'Residencial', '09\/2023')":788,"('AC', 'Residencial', '10\/2023')":791,"('AC', 'Rural', '06\/2023')":55,"('AC', 'Rural', '07\/2023')":49,"('AC', 'Rural', '08\/2023')":38,"('AC', 'Rural', '09\/2023')":45,"('AC', 'Rural', '10\/2023')":48,"('AC', 'Servi\u00e7o P\u00fablico', '06\/2023')":1,"('AL', 'Comercial', '06\/2023')":560,"('AL', 'Comercial', '07\/2023')":576,"('AL', 'Comercial', '08\/2023')":583,"('AL', 'Comercial', '09\/2023')":565,"('AL', 'Comercial', '10\/2023')":557,"('AL', 'Industrial', '06\/2023')":40,"('AL', 'Industrial', '07\/2023')":20,"('AL', 'Industrial', '08\/2023')":29,"('AL', 'Industrial', '09\/2023')":26,"('AL', 'Industrial', '10\/2023')":30,"('AL', 'Poder P\u00fablico', '06\/2023')":14,"('AL', 'Poder P\u00fablico', '07\/2023')":16,"('AL', 'Poder P\u00fablico', '08\/2023')":19,"('AL', 'Poder P\u00fablico', '09\/2023')":10,"('AL', 'Poder P\u00fablico', '10\/2023')":12,"('AL', 'Residencial', '06\/2023')":3321,"('AL', 'Residencial', '07\/2023')":3322,"('AL', 'Residencial', '08\/2023')":3325,"('AL', 'Residencial', '09\/2023')":3312,"('AL', 'Residencial', '10\/2023')":3220,"('AL', 'Rural', '06\/2023')":100,"('AL', 'Rural', '07\/2023')":96,"('AL', 'Rural', '08\/2023')":73,"('AL', 'Rural', '09\/2023')":84,"('AL', 'Rural', '10\/2023')":106,"('AL', 'Servi\u00e7o P\u00fablico', '06\/2023')":1,"('AL', 'Servi\u00e7o P\u00fablico', '08\/2023')":1,"('AM', 'Comercial', '06\/2023')":213,"('AM', 'Comercial', '07\/2023')":213,"('AM', 'Comercial', '08\/2023')":189,"('AM', 'Comercial', '09\/2023')":210,"('AM', 'Comercial', '10\/2023')":204,"('AM', 'Industrial', '06\/2023')":6,"('AM', 'Industrial', '07\/2023')":8,"('AM', 'Industrial', '08\/2023')":18,"('AM', 'Industrial', '09\/2023')":22,"('AM', 'Industrial', '10\/2023')":17,"('AM', 'Poder P\u00fablico', '06\/2023')":3,"('AM', 'Poder P\u00fablico', '07\/2023')":7,"('AM', 'Poder P\u00fablico', '08\/2023')":2,"('AM', 'Poder P\u00fablico', '10\/2023')":7,"('AM', 'Residencial', '06\/2023')":1208,"('AM', 'Residencial', '07\/2023')":1152,"('AM', 'Residencial', '08\/2023')":1217,"('AM', 'Residencial', '09\/2023')":1221,"('AM', 'Residencial', '10\/2023')":1178,"('AM', 'Rural', '06\/2023')":10,"('AM', 'Rural', '07\/2023')":9,"('AM', 'Rural', '08\/2023')":9,"('AM', 'Rural', '09\/2023')":12,"('AM', 'Rural', '10\/2023')":9,"('AP', 'Comercial', '06\/2023')":45,"('AP', 'Comercial', '07\/2023')":46,"('AP', 'Comercial', '08\/2023')":48,"('AP', 'Comercial', '09\/2023')":44,"('AP', 'Comercial', '10\/2023')":47,"('AP', 'Industrial', '07\/2023')":2,"('AP', 'Industrial', '10\/2023')":1,"('AP', 'Poder P\u00fablico', '06\/2023')":5,"('AP', 'Poder P\u00fablico', '07\/2023')":6,"('AP', 'Poder P\u00fablico', '08\/2023')":6,"('AP', 'Poder P\u00fablico', '10\/2023')":4,"('AP', 'Residencial', '06\/2023')":471,"('AP', 'Residencial', '07\/2023')":486,"('AP', 'Residencial', '08\/2023')":473,"('AP', 'Residencial', '09\/2023')":474,"('AP', 'Residencial', '10\/2023')":474,"('AP', 'Rural', '07\/2023')":1,"('AP', 'Rural', '08\/2023')":1,"('AP', 'Rural', '10\/2023')":1,"('AP', 'Servi\u00e7o P\u00fablico', '08\/2023')":1,"('BA', 'Comercial', '06\/2023')":32,"('BA', 'Comercial', '07\/2023')":51,"('BA', 'Comercial', '08\/2023')":37,"('BA', 'Comercial', '09\/2023')":31,"('BA', 'Comercial', '10\/2023')":37,"('BA', 'Industrial', '06\/2023')":2,"('BA', 'Industrial', '07\/2023')":6,"('BA', 'Industrial', '08\/2023')":4,"('BA', 'Industrial', '09\/2023')":3,"('BA', 'Industrial', '10\/2023')":1,"('BA', 'Poder P\u00fablico', '06\/2023')":3,"('BA', 'Poder P\u00fablico', '07\/2023')":1,"('BA', 'Poder P\u00fablico', '08\/2023')":2,"('BA', 'Poder P\u00fablico', '09\/2023')":4,"('BA', 'Poder P\u00fablico', '10\/2023')":1,"('BA', 'Residencial', '06\/2023')":118,"('BA', 'Residencial', '07\/2023')":110,"('BA', 'Residencial', '08\/2023')":136,"('BA', 'Residencial', '09\/2023')":119,"('BA', 'Residencial', '10\/2023')":95,"('BA', 'Rural', '06\/2023')":4,"('BA', 'Rural', '07\/2023')":4,"('BA', 'Rural', '08\/2023')":2,"('BA', 'Rural', '09\/2023')":8,"('BA', 'Rural', '10\/2023')":4,"('SP', 'Residencial', '08\/2023')":1}
+[
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "124"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "142"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "135"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "117"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "112"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "6"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "766"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "766"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "750"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "782"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "782"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "47"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "44"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "44"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "47"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "53"
+    },
+    {
+        "SigUF": "AC",
+        "DscClasseConsumo": "Servi\u00e7o P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "597"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "550"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "585"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "553"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "556"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "21"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "39"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "15"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "38"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "32"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "12"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "18"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "13"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "16"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "12"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "3439"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "3342"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "3209"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "3254"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "3256"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "79"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "98"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "96"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "85"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "101"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Servi\u00e7o P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AL",
+        "DscClasseConsumo": "Servi\u00e7o P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "207"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "212"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "199"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "197"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "214"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "14"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "16"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "18"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "12"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "11"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "4"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "6"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1199"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "1195"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "1181"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "1231"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1170"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "11"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "13"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "7"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "8"
+    },
+    {
+        "SigUF": "AM",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "10"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "31"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "57"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "57"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "52"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "33"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "4"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "472"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "506"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "472"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "448"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "480"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "AP",
+        "DscClasseConsumo": "Servi\u00e7o P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "45"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "42"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "25"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "36"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Comercial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "40"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "6"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Industrial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "4"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Poder P\u00fablico",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "109"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "126"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "131"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "108"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "104"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "2"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "07/2023",
+        "MdaPotenciaInstaladaKW": "5"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "08/2023",
+        "MdaPotenciaInstaladaKW": "3"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "09/2023",
+        "MdaPotenciaInstaladaKW": "8"
+    },
+    {
+        "SigUF": "BA",
+        "DscClasseConsumo": "Rural",
+        "AnmPeriodoReferencia": "10/2023",
+        "MdaPotenciaInstaladaKW": "4"
+    },
+    {
+        "SigUF": "SP",
+        "DscClasseConsumo": "Residencial",
+        "AnmPeriodoReferencia": "06/2023",
+        "MdaPotenciaInstaladaKW": "1"
+    }
+]

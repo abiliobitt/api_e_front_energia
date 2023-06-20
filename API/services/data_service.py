@@ -1,4 +1,5 @@
 import inject
+import csv
 import json
 import os
 import pandas as pd
@@ -18,7 +19,14 @@ def write_json(new_data, filename):
         with open(filename, 'w') as file:
             json.dump(new_data, file, indent=4)
             
-
+def csv_to_json (path_csv, path_json) :
+    data_dict = []
+    with open(path_csv, encoding = 'utf-8') as csv_file_handler:
+        csv_reader = csv.DictReader(csv_file_handler)
+        for rows in csv_reader:
+            data_dict.append(rows)
+    with open(path_json, 'w', encoding = 'utf-8') as json_file_handler:
+        json_file_handler.write(json.dumps(data_dict, indent = 4))
 
 class DataService:
     @staticmethod
@@ -78,12 +86,12 @@ class DataService:
                 # Potência instalada por estado e classe de empreendimento
                 count_potency_by_state_and_class = ufs_df.groupby(['SigUF','DscClasseConsumo', 'AnmPeriodoReferencia'])['MdaPotenciaInstaladaKW'].count()
                 count_potency_by_state_and_class.to_csv('potency_by_uf_and_class.csv')
-                count_potency_by_state_and_class.to_json('potency_by_uf_and_class.json')
+                csv_to_json('potency_by_uf_and_class.csv', 'potency_by_uf_and_class.json')
 
                 # Potência instalada por estado
                 count_potency_by_state_and_time_range = ufs_df.groupby(['SigUF', 'AnmPeriodoReferencia'])['MdaPotenciaInstaladaKW'].count()
                 count_potency_by_state_and_time_range.to_csv('potency_by_state_and_time_range.csv')
-                count_potency_by_state_and_time_range.to_json('potency_by_state_and_time_range.json', orient='records')
+                csv_to_json('potency_by_state_and_time_range.csv', 'potency_by_state_and_time_range.json')
 
         except NameError:
             print(NameError)
